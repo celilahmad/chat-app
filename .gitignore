@@ -1,0 +1,7 @@
+# Default ignored files
+.idea/*
+
+
+# `*.iml` files in all sub-directories
+**/*.iml
+target/*
